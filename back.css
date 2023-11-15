@@ -1,0 +1,26 @@
+.welcome{
+    text-align: center;
+    color: rgb(255, 51, 0);
+    font-size: 55px;
+    
+}
+.par{
+    text-align: center;
+    color: antiquewhite;
+}
+.cent{
+    background-image: url("https://images6.alphacoders.com/785/thumb-1920-785425.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    text-align: center;
+}
+li{
+    display: inline;
+}
+a{
+    padding: 30px;
+}
