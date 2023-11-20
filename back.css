@@ -1,20 +1,30 @@
+body{
+    background-color: rgb(34, 26, 26);
+}
 .welcome{
     text-align: center;
     color: rgb(255, 51, 0);
     font-size: 55px;
-    
+    font-family: 'Cinzel';
+    font-weight: bold;
+    padding-top: 125px;
+    margin-bottom: 0px;   
 }
 .par{
     text-align: center;
     color: antiquewhite;
+    font-family: 'Cinzel';
+    margin: 0px;
+    padding-bottom: 45px;
+    font-size: 25px;
 }
 .cent{
     background-image: url("https://images6.alphacoders.com/785/thumb-1920-785425.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 30rem;
 }
-
 .nav{
     text-align: center;
 }
@@ -23,5 +33,19 @@ li{
 }
 a{
     padding: 30px;
-    color: black;
+}
+
+.wall{
+    text-align: center;
+    font-family: 'Cinzel';
+    color: antiquewhite;
+    font-weight: normal;
+    font-size: 25px;
+}
+.war{
+    text-align: center;
+    font-family: 'Cinzel';
+    color: antiquewhite;
+    font-weight: normal;
+    font-size: 12px;
 }
