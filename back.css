@@ -49,3 +49,16 @@ a{
     font-weight: normal;
     font-size: 12px;
 }
+
+.hov{
+    background-color: rgba(75, 60, 60, 0.479);
+    text-align: center;
+    color: antiquewhite;
+}
+.box1{
+    background-color: yellow;
+}
+.heroes{
+    display: inline;
+    text-align: center;
+}
